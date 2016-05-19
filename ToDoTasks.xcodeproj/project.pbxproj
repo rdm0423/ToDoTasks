@@ -12,6 +12,7 @@
 		FF37A8931CEE706200C72B55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF37A8911CEE706200C72B55 /* Main.storyboard */; };
 		FF37A8951CEE706200C72B55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF37A8941CEE706200C72B55 /* Assets.xcassets */; };
 		FF37A8981CEE706200C72B55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF37A8961CEE706200C72B55 /* LaunchScreen.storyboard */; };
+		FF37A8A01CEE816A00C72B55 /* TaskTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF37A89F1CEE816A00C72B55 /* TaskTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FF37A8941CEE706200C72B55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF37A8971CEE706200C72B55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF37A8991CEE706200C72B55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF37A89F1CEE816A00C72B55 /* TaskTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FF37A88D1CEE706200C72B55 /* AppDelegate.swift */,
 				FF37A88F1CEE706200C72B55 /* ViewController.swift */,
+				FF37A89F1CEE816A00C72B55 /* TaskTableViewController.swift */,
 				FF37A8911CEE706200C72B55 /* Main.storyboard */,
 				FF37A8941CEE706200C72B55 /* Assets.xcassets */,
 				FF37A8961CEE706200C72B55 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF37A8A01CEE816A00C72B55 /* TaskTableViewController.swift in Sources */,
 				FF37A8901CEE706200C72B55 /* ViewController.swift in Sources */,
 				FF37A88E1CEE706200C72B55 /* AppDelegate.swift in Sources */,
 			);
