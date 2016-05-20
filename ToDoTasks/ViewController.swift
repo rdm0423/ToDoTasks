@@ -32,19 +32,15 @@ class ViewController: UIViewController {
     }
     
     @IBAction func closeButtonTapped(sender: AnyObject) {
-        
     }
     
     @IBAction func dueDatePickerValueChanged(sender: AnyObject) {
-        
     }
     
     @IBAction func taskPriorityValueChanged(sender: AnyObject) {
-        
     }
 
     @IBAction func userTappedView(sender: AnyObject) {
-        
     }
 
 }
